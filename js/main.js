@@ -1,4 +1,7 @@
 import prompt from 'async-prompt'
-import Fun from './modulos/ej1.js'
+import sumarArreglo from './modulos/ej14.js'
 
-console.log()
+// código de prueba
+console.log(sumarArreglo([1, 2, 3], 1, 2)) // 5
+console.log(sumarArreglo([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 3, 6)) // 22
+console.log(sumarArreglo([7, 8, 9], 0, 0)) // 0
