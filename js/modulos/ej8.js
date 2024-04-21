@@ -1,6 +1,8 @@
-let sumarRango = (star, end)=>{
-    let resultado 
-    for ()
+let sumarRango = (start, end)=>{
+    let resultado =0;
+    for (let i= start;i<=end; i++){
+        resultado=resultado+i;
+    }
     return resultado
 }
 
