@@ -5,14 +5,13 @@
     "main": "js/main.js",
     "type": "module",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "dev": "node js/main.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "node js/main.js"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "async-prompt": "^1.0.1"
+        "async-prompt": "^1.0.1"
     }
-  }
-  
+}
